@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ronchito13/Smoky-Robots/static/css/main.84a8a4e4.chunk.css",
+    "main.js": "/Ronchito13/Smoky-Robots/static/js/main.629117fc.chunk.js",
+    "main.js.map": "/Ronchito13/Smoky-Robots/static/js/main.629117fc.chunk.js.map",
+    "runtime-main.js": "/Ronchito13/Smoky-Robots/static/js/runtime-main.9d81c65c.js",
+    "runtime-main.js.map": "/Ronchito13/Smoky-Robots/static/js/runtime-main.9d81c65c.js.map",
+    "static/js/2.1cd57664.chunk.js": "/Ronchito13/Smoky-Robots/static/js/2.1cd57664.chunk.js",
+    "static/js/2.1cd57664.chunk.js.map": "/Ronchito13/Smoky-Robots/static/js/2.1cd57664.chunk.js.map",
+    "index.html": "/Ronchito13/Smoky-Robots/index.html",
+    "precache-manifest.7f238ccf70fbac821d2205f3bacdbd75.js": "/Ronchito13/Smoky-Robots/precache-manifest.7f238ccf70fbac821d2205f3bacdbd75.js",
+    "service-worker.js": "/Ronchito13/Smoky-Robots/service-worker.js",
+    "static/css/main.84a8a4e4.chunk.css.map": "/Ronchito13/Smoky-Robots/static/css/main.84a8a4e4.chunk.css.map",
+    "static/js/2.1cd57664.chunk.js.LICENSE": "/Ronchito13/Smoky-Robots/static/js/2.1cd57664.chunk.js.LICENSE",
+    "static/media/app.css": "/Ronchito13/Smoky-Robots/static/media/SEGA.82e09f78.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d81c65c.js",
+    "static/js/2.1cd57664.chunk.js",
+    "static/css/main.84a8a4e4.chunk.css",
+    "static/js/main.629117fc.chunk.js"
+  ]
+}
